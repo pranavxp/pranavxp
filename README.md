@@ -1,6 +1,7 @@
 ![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNDk0MGI2MDkyZTE1ODAxOTNjMzI1NjYwZGJjODZkMDVhNTI5NyZjdD1n/Nx0rz3jtxtEre/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">An AI and Data Science student </h3>
+<h3 align="center">AI and Data Science student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavxp&label=Profile%20views&color=008040&style=flat" alt="pranavxp" /> </p>
 
