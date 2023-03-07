@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">An AI and Data Science student from India</h3>
+<h3 align="center">An AI and Data Science student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavxp&label=Profile%20views&color=008040&style=flat" alt="pranavxp" /> </p>
 
+- 🌱 I’m currently learning **Python for machine learning and artificial intelligence**
 
-
-- 🌱 I’m currently learning **Python for machine learning**
-
-- ⚡ Fun fact **I am really good at building custom desktop PCs**
+- ⚡ Fun fact **I am really good at building custom desktop PCs and passionate about cybersecurity and data privacy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
