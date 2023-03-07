@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="github.com/pranavxp">
+<a href="github.com/pranavxp" target="_blank" rel="noreferrer"> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
