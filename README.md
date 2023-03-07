@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavxp&label=Profile%20views&color=008040&style=flat" alt="pranavxp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itsprxnv" target="blank"><img src="https://img.shields.io/twitter/follow/itsprxnv?logo=twitter&style=for-the-badge" alt="itsprxnv" /></a> </p>
+
 
 - 🌱 I’m currently learning **Python for machine learning**
 
-- ⚡ Fun fact **I can be really weird**
+- ⚡ Fun fact **I am really good at building custom desktop PCs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
