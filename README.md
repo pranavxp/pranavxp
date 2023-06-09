@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am really good at building custom desktop PCs and passionate about cybersecurity and data privacy**
 
-- Portfolio :- [https://pranavxp.github.io/](https://pranavxp.github.io/)
+- **Portfolio** :- [https://pranavxp.github.io/](https://pranavxp.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
