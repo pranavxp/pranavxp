@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a>&nbsp;
 <a href="https://opencv.org/"  > 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 </a>&nbsp;
 <a href="https://www.python.org"  > 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
