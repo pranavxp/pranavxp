@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning **Python for machine learning and artificial intelligence**
 
-- ⚡ Fun fact **I am really good at building custom desktop PCs and passionate about cybersecurity and data privacy and I like linux a lot**
+- ⚡ Fun fact **I am really passionate about cybersecurity, data privacy and I like linux a lot**
 
 - ⚜️ **Portfolio** :- [https://pranavxp.github.io/](https://pranavxp.github.io/)
