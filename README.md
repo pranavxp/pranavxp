@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">AI and Data Science student </h3>
+<h3 align="center">AI and Data Science Engineer </h3>
 
 
 - 🌱 I’m currently learning **Python for machine learning and artificial intelligence**
