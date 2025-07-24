@@ -10,4 +10,4 @@
 
 - ⚡ Fun fact **I am really passionate about cybersecurity, data privacy and I like linux a lot**
 
-- ⚜️ **Portfolio** :- [https://pranavxp.github.io/](https://pranavxp.github.io/)
+- ⚜️ **Portfolio** :- [https://pranavp.vercel.app](https://pranavp.vercel.app)
