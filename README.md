@@ -6,7 +6,7 @@
 <h3 align="center">AI and Data Science Engineer </h3>
 
 
-- 🌱 Engineer
+- 🌱 Currently Learning Cybersecurity
 
 - ⚡ Fun fact **I am really passionate about cybersecurity, data privacy and I like linux a lot**
 
